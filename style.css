@@ -217,9 +217,15 @@ body {
         width: 327px;
         height: 444px;
     }
+    .sign1 {
+        left: 199px;
+    }
     .box2 {
         width: 327px;
         height: 240px;
+    }
+    .sign2 {
+        top: 100px;
     }
     .box3 {
         width: 327px;
@@ -232,5 +238,9 @@ body {
     .box5 {
         width: 327px;
         height: 384px;
+    }
+    .sign5 {
+        top: 150px;
+        left: 100px;
     }
 }
